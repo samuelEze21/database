@@ -1,0 +1,2 @@
+SELECT COUNT(*) AS NumberOfRows
+FROM Order_ITEM;
